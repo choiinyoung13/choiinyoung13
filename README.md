@@ -1,16 +1,14 @@
-## Hi there👋
+### 😄 회사와 동료들에게 도움이 되는 개발자가 되는 것이 목표입니다.
 
-<!--
-**choiinyoung13/choiinyoung13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### 🔥 Main stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img src="https://img.shields.io/badge/typescript-239DAD?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/recoli-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
+<img src="https://img.shields.io/badge/tanskquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/cssinjs-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
+
